@@ -25,18 +25,18 @@ Jag vill inte lägga mig i utredning av IT-projekt som blir dyra eller misslycka
 
 ## Historik av policyförslaget
 
-Här finns de diskussioner som jag har hittat om en IT/Cyber-haverikommission. Bidrag välkomnas.
+Här finns de diskussioner som jag har hittat om en IT-/Cyberhaverikommission. Bidrag välkomnas.
 
-Över tid har olika former av en "IT-haverikommission" eller "Haverikommission för cyberincidenter" diskuterats. Central policyentrepenör *verkar vara* Patrik Fältström med stöd från Ann-Marie Löwinder samt Centerpartiet. 
+Över tid har olika former av en "IT-haverikommission" eller "Haverikommission för cyberincidenter" diskuterats. Central policyentrepenör verkar vara Patrik Fältström med stöd från Ann-Marie Löwinder samt Centerpartiet. 
 
 Löwinder behandlar förslaget i [IIS remisssvar](https://internetstiftelsen.se/docs/Remissvar-NISU-IIS-slutlig.pdf) 2015.
 
 Rickard Nordin (C) föreslog en IT-haverikommission 2016 och 2018 (identiska motioner). Förslagen hade mest fokus på offentliga IT-investeringar, d.v.s. inte så mycket cyber. Båda motioner fick avslag av finansutskottet, delvis då man ansåg att ESV hade fått liknande uppdrag. Skulle man ramat in det som en strikt cyberfråga och tilldelat motionen till försvarsutskottet kanske svaret hade varit annorlunda.
 
 
-Frågan har sedan tagits upp 2022 i IVA:s rapport, [*Cybersäkerhet för ökad konkurrenskraft*](https://www.iva.se/contentassets/ec4545faa53541f2b8d29b150ae39645/202210-iva-cybersakerhet-rapport.pdf) som bl.a. Fältström har delförfattat, och då har man slutat fokusera på IT-kostnader. Efter detta ställdes en [skriftlig fråga](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svar-pa-skriftlig-fraga/haverikommission-for-cyberincidenter_ha12922/) 2023 från Adrian Magnusson (S) till Carl-Oskar Bolin om förslaget och ministern menade att det var "ett av många intressanta förslag".
+Frågan har sedan tagits upp 2022 i IVA:s rapport, [*Cybersäkerhet för ökad konkurrenskraft*](https://www.iva.se/contentassets/ec4545faa53541f2b8d29b150ae39645/202210-iva-cybersakerhet-rapport.pdf) som bl.a. Fältström har medförfattat, och då har man slutat fokusera på IT-kostnader. Efter detta ställdes en [skriftlig fråga](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svar-pa-skriftlig-fraga/haverikommission-for-cyberincidenter_ha12922/) 2023 från Adrian Magnusson (S) till Carl-Oskar Bohlin om förslaget och ministern menade att det var "ett av många intressanta förslag".
 
-Nu får vi invänta den framtida cybersäkerhetsstrategi som Bolin utlovade.
+Nu får vi invänta den framtida cybersäkerhetsstrategi som Bohlin utlovade.
 
 <!-- https://www.paftech.se/notes/1873/ håller inte med, lösning som söker problem -->
 
@@ -44,7 +44,7 @@ Nu får vi invänta den framtida cybersäkerhetsstrategi som Bolin utlovade.
 
 #### Cyber Safety Review Board
 
-CSRB är en ny kommité i USA som etablerades 2021. De har $3,2 miljoner dollar i budget och leds av tunga ledamöter som representerar både privata och offentliga sektorn.  
+CSRB är en ny kommitté i USA som etablerades 2021. De har $3,2 miljoner dollar i budget och leds av tunga ledamöter som representerar både privata och offentliga sektorn.  
 
 De har hittills skrivit en rapport om året:
 - [Log4J](https://www.cisa.gov/sites/default/files/2023-02/CSRB-Report-on-Log4j-PublicReport-July-11-2022-508-Compliant.pdf) (2022)
@@ -54,7 +54,7 @@ De har hittills skrivit en rapport om året:
   - Rapporten behandlar en enskild hotaktör, deras TTPs och rekommendationer för att bemöta dem
 - [Cloud Security](https://www.dhs.gov/news/2023/08/11/department-homeland-securitys-cyber-safety-review-board-conduct-review-cloud) (2024?)
 
-De har välkomnats i policysammanhang och jag har inte hört någon kritik mot CSRB. Rapporterna reflekterar inte att kommitten är modellerad efter NTSB.
+De har välkomnats i policysammanhang och jag har inte hört någon kritik mot CSRB. Rapporterna reflekterar inte att kommittén är modellerad efter NTSB.
 
 #### Cyber Incident Review Board
 
