@@ -1,0 +1,16 @@
+<!--
+
+{{- with resources.Get "css/main.css" }}
+  {{- if eq hugo.Environment "development" }}
+    <link rel="stylesheet" href="{{ .RelPermalink }}">
+  {{- else }}
+    {{- with . | minify | fingerprint }}
+      <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+    {{- end }}
+  {{- end }}
+{{- end }}
+-->
+
+
+<link rel="stylesheet" href="https://unpkg.com/normalize.css@8.0.1/normalize.css" integrity="sha384-M86HUGbBFILBBZ9ykMAbT3nVb0+2C7yZlF8X2CiKNpDOQjKroMJqIeGZ/Le8N2Qp" crossorigin="anonymous">
+<link rel="stylesheet" href="https://unpkg.com/concrete.css@2.1.1/concrete.css" integrity="sha384-FXVaGhrQYydFigwhRxLkK++yp0J4xa+AV0o8O3jnEHMvcg7Pd0ajiD4sXkHprCLx" crossorigin="anonymous">

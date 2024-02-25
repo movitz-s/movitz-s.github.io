@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on movitz offentliga utredningar</title>
+    <link>https://movitz.dev/posts/</link>
+    <description>Recent content in Posts on movitz offentliga utredningar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sv</language>
+    <lastBuildDate>Mon, 12 Feb 2024 08:00:00 -0700</lastBuildDate>
+    <atom:link href="https://movitz.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IT-HAVKOM</title>
+      <link>https://movitz.dev/posts/ithavkom/</link>
+      <pubDate>Mon, 12 Feb 2024 08:00:00 -0700</pubDate>
+      <guid>https://movitz.dev/posts/ithavkom/</guid>
+      <description>SHK kuriosa Statens haverikommission inrättades 1978 och tog över ansvaret för undersökning av luftfartsolyckor från militären. Andra länder har motsvariga myndigheter och funktionen de fyller kravställs av Chicagofördraget som alla FN-stater (förutom Lichtenstein) har ratificerat. Transport Safety Boards runt om i världen har oftast endast har i uppdrag att undersöka civila luftfarts- eller transportolyckor, vilket innebär att svenska SHK är bland de få instanser som har ett sådant omfattande ansvarsområde som sträcker sig utanför civil transport.</description>
+    </item>
+  </channel>
+</rss>

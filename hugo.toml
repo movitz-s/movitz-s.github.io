@@ -1,0 +1,11 @@
+baseURL = 'https://movitz.dev/'
+languageCode = 'sv'
+title = 'movitz offentliga utredningar'
+
+theme = 'my-theme'
+publishDir = 'docs'
+
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
+
+
